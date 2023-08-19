@@ -10,8 +10,8 @@
   1. [KKDAY_and_Klook_django_scrapyers](https://github.com/Estherchao-tw/KKDAY_and_Klook_django_scrapyers)
   2. [python自動化推送天氣通知](https://github.com/Estherchao-tw/weather-notficatoin)
   3. [股市爬蟲+製圖_一年/五年](爬蟲/股市趨勢)
-  4. [Python | Create a digital clock using Tkinter](爬蟲/Tkinter_basic/Tkinter_clock.py)
-  5. 
+  4. [python | Create a digital clock](https://github.com/Estherchao-tw/python_-/tree/main/%E7%88%AC%E8%9F%B2/Tkinter_basic)
+  5. [自動化控制滑鼠-AUTOGUI](https://github.com/Estherchao-tw/python_-/tree/main/%E7%88%AC%E8%9F%B2/GUI)
 
 - 🤝 Second project [pandas_missing-data_and-headling](https://github.com/Estherchao-tw/pandas_missing-data_and-headling)
 
