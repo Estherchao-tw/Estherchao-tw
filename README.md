@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm EstherChao</h1>
 <h3 align="center">A passionate Python Data-mining engineer from Taiwan</h3>
 
-- 🔭 I’m currently working on [KKDAY_and_Klook_django_scrapyers](https://github.com/Estherchao-tw/KKDAY_and_Klook_django_scrapyers)
+- 🔭 I’m currently working on [五年內股票的抓取與預測](tensorflow)
 
 - 🌱 I’m currently learning **TensorFlow,Data Mining Python**
 
 - 👯 I’m implementing these projects in data science : 
-- ⛅ First project [python自動化推送天氣通知](https://github.com/Estherchao-tw/weather-notficatoin)
+- ⛅ scrapy project
+  1. [KKDAY_and_Klook_django_scrapyers](https://github.com/Estherchao-tw/KKDAY_and_Klook_django_scrapyers)
+  2. [python自動化推送天氣通知](https://github.com/Estherchao-tw/weather-notficatoin)
+  3. [股市爬蟲+製圖_一年/五年](爬蟲/股市趨勢)
+  4. [Python | Create a digital clock using Tkinter](爬蟲/Tkinter_basic/Tkinter_clock.py)
+  5. 
 
 - 🤝 Second project [pandas_missing-data_and-headling](https://github.com/Estherchao-tw/pandas_missing-data_and-headling)
 
