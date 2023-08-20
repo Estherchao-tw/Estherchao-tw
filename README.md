@@ -9,7 +9,7 @@
 - ⛅ scrapy project
   1. [KKDAY_and_Klook_django_scrapyers](https://github.com/Estherchao-tw/KKDAY_and_Klook_django_scrapyers)
   2. [python自動化推送天氣通知](https://github.com/Estherchao-tw/weather-notficatoin)
-  3. [股市爬蟲+製圖_一年/五年](https://github.com/Estherchao-tw/python_-/tree/main/%E7%88%AC%E8%9F%B2/%E8%82%A1%E5%B8%82%E8%B6%A8%E5%8B%A2)
+  3. [Stock price analysis with Python](https://github.com/Estherchao-tw/python_-/tree/main/%E7%88%AC%E8%9F%B2/%E8%82%A1%E5%B8%82%E8%B6%A8%E5%8B%A2)
   5. [python | Create a digital clock](https://github.com/Estherchao-tw/python_-/tree/main/%E7%88%AC%E8%9F%B2/Tkinter_basic)
   6. [自動化控制滑鼠-AUTOGUI](https://github.com/Estherchao-tw/python_-/tree/main/%E7%88%AC%E8%9F%B2/GUI)
 
