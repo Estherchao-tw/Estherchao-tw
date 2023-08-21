@@ -7,14 +7,71 @@
 
 - 👯 I’m implementing these projects in data science : 
 - ⛅ scrapy project
-  1. [KKDAY_and_Klook_django_scrapyers](https://github.com/Estherchao-tw/KKDAY_and_Klook_django_scrapyers)
-  2. [python自動化推送天氣通知](https://github.com/Estherchao-tw/weather-notficatoin)
-  3. [Facebook 自動化登入+關鍵字查詢+爬蟲粉絲頁](https://github.com/Estherchao-tw/python_-/tree/main/%E7%88%AC%E8%9F%B2/facebook-scaper)
-  4. [三家股票公司data 分析 Python](https://github.com/Estherchao-tw/python_-/blob/main/%E7%88%AC%E8%9F%B2/%E8%82%A1%E5%B8%82%E8%B6%A8%E5%8B%A2/3_companies_stocck_analysis.ipynb)
-  5. [python | Create a digital clock](https://github.com/Estherchao-tw/python_-/tree/main/%E7%88%AC%E8%9F%B2/Tkinter_basic)
-  6. [自動化控制滑鼠-AUTOGUI](https://github.com/Estherchao-tw/python_-/tree/main/%E7%88%AC%E8%9F%B2/GUI)
+## Python 網頁爬蟲應用
 
-- 🤝 Second project [pandas_missing-data_and-headling](https://github.com/Estherchao-tw/pandas_missing-data_and-headling)
+[python 網頁爬蟲結合LINE notify :自動推送天氣預報](https://github.com/Estherchao-tw/weather-notficatoin)
+
+[Django + python 網頁爬蟲 : kkday一日遊 關鍵字查詢網頁](https://github.com/Estherchao-tw/KKDAY_and_Klook_django_scrapyers)
+
+[Python selenium +Beautiful : Facebook 自動化登入+ 搜尋關鍵字 + 抓取頁面資料](https://github.com/Estherchao-tw/python_-/tree/main/%E7%88%AC%E8%9F%B2/facebook-scaper)
+
+[Python 網頁爬蟲 + matplotlib : 三家股票公司 stock analysis with Python](https://github.com/Estherchao-tw/python_-/blob/main/%E7%88%AC%E8%9F%B2/%E8%82%A1%E5%B8%82%E8%B6%A8%E5%8B%A2/3_companies_stocck_analysis.ipynb)
+
+[Python 網頁爬蟲 + tensorflow + matplotlib : stock prediction with tensorflow and Python](https://github.com/Estherchao-tw/ml-project/blob/main/tensorflow/annual_stock_tensorflow.ipynb) 
+
+## Python 網頁爬蟲部署
+
+[python open api scrapy + LINE notify + deploy heroku :自動天氣預報](https://github.com/Estherchao-tw/weather-notficatoin)
+
+
+## Python machine learning
+
+[Python pytube + whisper : 實現語音辨識文字](https://github.com/Estherchao-tw/ml-project/blob/main/whisper/sub_youtube_whisper.ipynb)
+
+[Python tensorflow keras + sklearn + scrapy : 股票爬蟲五年數據資料](https://github.com/Estherchao-tw/python_-/blob/main/%E7%88%AC%E8%9F%B2/%E8%82%A1%E5%B8%82%E8%B6%A8%E5%8B%A2/3_companies_stocck_analysis.ipynb)
+
+[Python tenserflow keras model basic : the basic of LSTM](https://github.com/Estherchao-tw/ml-project/blob/main/tensorflow/input_and_output_shape_in_LSTM.ipynb)
+
+
+## Python 網頁爬蟲儲存
+
+[Python 網頁爬蟲 + pandas : 8891 二手汽車網儲存特定品牌所有資料](https://github.com/Estherchao-tw/8891-webscraping)
+
+[Python AJAX + mysql : KKBOX 音樂榜單資料儲存每周榜單](https://github.com/Estherchao-tw/KKBOX_fetchData)
+
+[Python AJAX + pandas : KKBOX 音樂榜單資料儲存每周榜單](https://github.com/Estherchao-tw/python_-/blob/main/%E7%88%AC%E8%9F%B2/KKBOX/KKBOX.py)
+
+[Python 網頁爬蟲 requests "POST" + pandas : agoda 飯店網爬蟲特定地區飯店](https://github.com/Estherchao-tw/Scraping-Graphql_Agoda)
+
+[Python Pandas_missing-data_and-headling](https://github.com/Estherchao-tw/pandas_missing-data_and-headling)
+
+## Python 基礎爬蟲
+
+[Python Tkinter + AutoGUI : create a digital clock](https://github.com/Estherchao-tw/python_-/tree/main/%E7%88%AC%E8%9F%B2/Tkinter_basic)
+
+[Python AutoGUI :  自動化控制滑鼠](https://github.com/Estherchao-tw/python_-/tree/main/%E7%88%AC%E8%9F%B2/GUI)
+
+[Python Linebot : 串接linebot](https://github.com/Estherchao-tw/python_-/tree/main/%E7%88%AC%E8%9F%B2/linebot)
+
+[Python 股票網頁爬蟲 + Pandas: 單月(五月)的股市資料抓取](https://github.com/Estherchao-tw/python_-/blob/main/%E7%88%AC%E8%9F%B2/%E8%82%A1%E5%B8%82%E8%B6%A8%E5%8B%A2/5year_stock.py)
+
+[Python 股票網頁爬蟲 + Pandas + matplotlib : 2022 年0056 的股市趨勢圖](https://github.com/Estherchao-tw/python_-/blob/main/%E7%88%AC%E8%9F%B2/%E8%82%A1%E5%B8%82%E8%B6%A8%E5%8B%A2/5year_stock.py)
+
+## Python picture process
+
+[Python PIL + itertools : remove watermark](https://github.com/Estherchao-tw/RemoveWatermark)
+
+## Python 避免爬蟲被鎖
+
+[Python proxy : 直接儲存可使用的Proxy](https://github.com/Estherchao-tw/proxyIP-webscrapy_Inside/blob/main/proxy.py)
+
+[Python proxy + 網頁爬蟲 : inside 網頁爬蟲網站文章](https://github.com/Estherchao-tw/proxyIP-webscrapy_Inside/blob/main/scrapy-inside.py)
+
+[Python proxy + 網頁爬蟲 : 股票爬蟲一年數據資料](https://github.com/Estherchao-tw/python_-/blob/main/%E7%88%AC%E8%9F%B2/%E8%82%A1%E5%B8%82%E8%B6%A8%E5%8B%A2/year_stock.py)
+
+[Python user-agent + 網頁爬蟲 : 股票爬蟲五年數據資料](https://github.com/Estherchao-tw/ml-project/blob/main/tensorflow/annual_stock.ipynb)
+
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Estherchao-tw?tab=repositories](https://github.com/Estherchao-tw?tab=repositories)
 
