@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm EstherChao</h1>
 <h3 align="center">A passionate Python Data-mining engineer from Taiwan</h3>
 
-- 🔭 I’m currently working on [五年內股票的抓取與預測](https://github.com/Estherchao-tw/ml-project/tensorflow)
+- 🔭 I’m currently working on [五年內股票的抓取與預測](https://github.com/Estherchao-tw/ml-project/blob/main/tensorflow/annual_stock_tensorflow.ipynb)
 
 - 🌱 I’m currently learning **TensorFlow,Data Mining Python**
 
