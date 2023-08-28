@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Python Data-mining engineer from Taiwan</h3>
 
 - 🔭 I’m currently working on [五年內股票的抓取與預測](https://github.com/Estherchao-tw/ml-project/blob/main/tensorflow/annual_stock_tensorflow.ipynb)
-
 - 🌱 I’m currently learning **TensorFlow,Data Mining Python**
 
 - 👯 I’m implementing these projects in data science : 
@@ -15,7 +14,7 @@
 
 [Python selenium +Beautiful : Facebook 自動化登入+ 搜尋關鍵字 + 抓取頁面資料](https://github.com/Estherchao-tw/python_-/tree/main/%E7%88%AC%E8%9F%B2/facebook-scaper)
 
-[Python 網頁爬蟲 + matplotlib : 三家股票公司 stock analysis with Python](https://github.com/Estherchao-tw/python_-/blob/main/%E7%88%AC%E8%9F%B2/%E8%82%A1%E5%B8%82%E8%B6%A8%E5%8B%A2/3_companies_stocck_analysis.ipynb)
+[Python 網頁爬蟲 + matplotlib : 三家股票公司分析 stock analysis with Python](https://github.com/Estherchao-tw/python_-/blob/main/%E7%88%AC%E8%9F%B2/%E8%82%A1%E5%B8%82%E8%B6%A8%E5%8B%A2/3_companies_stocck_analysis.ipynb)
 
 [Python 網頁爬蟲 + tensorflow + matplotlib : stock prediction with tensorflow and Python](https://github.com/Estherchao-tw/ml-project/blob/main/tensorflow/annual_stock_tensorflow.ipynb) 
 
