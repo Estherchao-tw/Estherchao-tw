@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm EstherChao</h1>
 <h3 align="center">A passionate Python Data-mining engineer from Taiwan</h3>
 
+- ⛅ I had been a product Manager for more than a year, but now I'm planning to learn more coding skill.
 - 🔭 I’m currently working on [五年內股票的抓取與預測](https://github.com/Estherchao-tw/ml-project/blob/main/tensorflow/annual_stock_tensorflow.ipynb)
 - 🌱 I’m currently learning **TensorFlow,Data Mining Python**
 
 - 👯 I’m implementing these projects in data science : 
-- ⛅ scrapy project
+
 ## Python 網頁爬蟲應用
 
 [python 網頁爬蟲結合LINE notify :自動推送天氣預報](https://github.com/Estherchao-tw/weather-notficatoin)
