@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python Data-mining engineer from Taiwan</h3>
 
 - ⛅ I had been a product Manager for more than a year, but now I'm planning to learn more coding skill.
-- 🔭 I’m currently working on [Netflix視覺化分析]
+- 🔭 I’m currently working on [Netflix視覺化分析](https://github.com/Estherchao-tw/Netflix_visualization_analysis/blob/main/netflix_plot_analysis.ipynb)
 - 🌱 I’m currently learning **TensorFlow,Data Mining Python**
 
 - 👯 I’m implementing these projects in data science : 
